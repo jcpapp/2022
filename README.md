@@ -69,7 +69,7 @@ If you are staying overnight and have not yet booked your room, we suggest one o
 - **UCLA Luskin Converence Center**  
 425 Westwood Plaza
 Los Angeles 90095  
-<https://luskinconferencecenter.ucla.edu>  
+    <https://luskinconferencecenter.ucla.edu>  
 
 - **Hilgard House Hotel**  
 927 Hilgard Avenue  
@@ -94,6 +94,13 @@ Email: tivertonhouse@mednet.ucla.edu
 Los Angeles, CA 90024  
 Phone: (310)208-8765  
 Reservations: (888) 627-7135
+
+- **Palihotel Westwood**
+1044 Tiverton Avenue
+Los Angeles, CA 90024
+Phone: (310)340-1234
+Email: info@palihotelwestwoodvillage.com  
+    <https://www.palisociety.com/hotels/westwood-village>
 
 ### Contact
 
