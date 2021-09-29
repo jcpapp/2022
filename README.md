@@ -26,6 +26,13 @@ Please join Drs. Risch and Boehnke in making a [philanthropic gift](https://givi
 
 UCLA Luskin Conference Center, Jan 28, 2022.
 
+Confirmed speakers include:  
+- Genevera Allen, Rice University & Baylor College of Medicine  
+- Susan Holmes, Stanford University  
+- Kenneth Lange, UCLA  
+- Robert Tibshirani, Stanford University  
+- Jason Xu, Duke University  
+
 | Time | Title | Speaker |  
 |:-----------|:------------|:------------|  
 | 9:00-9:10 | Welcome | |  
@@ -41,7 +48,9 @@ UCLA Luskin Conference Center, Jan 28, 2022.
 
 ### Workshop-Jan 29, 2022
 
-TBD, UCLA  
+Cohen Room 134, Engineering VI Building, UCLA
+
+We are planning a Julia Programming Workshop and to showcase a variety of methods inspired by Ken Lange's extensive work in computational statistics and stochastic processes. Students as well as experienced researchers are welcome to attend.
 
 | Time | Title | Speaker |  
 |:-----------|:------------|:------------|  
