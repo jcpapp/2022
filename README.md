@@ -71,6 +71,22 @@ If you are staying overnight and have not yet booked your room, we suggest one o
 Los Angeles 90095  
     <https://luskinconferencecenter.ucla.edu>  
 
+- **Palihotel Westwood**
+1044 Tiverton Avenue  
+Los Angeles, CA 90024  
+Phone: (310)340-1234  
+Email: info@palihotelwestwoodvillage.com  
+UCLA Rate: $185 plus tax and up  
+Rate/Promo Code: UCLA  
+Reservations: <https://be.synxis.com/?Hotel=77870&Chain=10634&promo=ucla>  
+Complimentary continental breakfast daily & high speed internet.
+
+- **Royal Palace Westwood**  
+1052 Tiverton Ave.  
+Los Angeles, CA 90024  
+Phone: (310)208-6677
+Complimentary continental breakfast, parking & high speed internet.  
+
 - **Hilgard House Hotel**  
 927 Hilgard Avenue  
 Los Angeles, CA 90024  
@@ -94,13 +110,6 @@ Email: tivertonhouse@mednet.ucla.edu
 Los Angeles, CA 90024  
 Phone: (310)208-8765  
 Reservations: (888) 627-7135
-
-- **Palihotel Westwood**
-1044 Tiverton Avenue  
-Los Angeles, CA 90024  
-Phone: (310)340-1234  
-Email: info@palihotelwestwoodvillage.com  
-    <https://www.palisociety.com/hotels/westwood-village>
 
 ### Contact
 
