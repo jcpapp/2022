@@ -96,9 +96,9 @@ Phone: (310)208-8765
 Reservations: (888) 627-7135
 
 - **Palihotel Westwood**
-1044 Tiverton Avenue
-Los Angeles, CA 90024
-Phone: (310)340-1234
+1044 Tiverton Avenue  
+Los Angeles, CA 90024  
+Phone: (310)340-1234  
 Email: info@palihotelwestwoodvillage.com  
     <https://www.palisociety.com/hotels/westwood-village>
 
