@@ -84,7 +84,7 @@ Complimentary continental breakfast daily & high speed internet.
 - **Royal Palace Westwood**  
 1052 Tiverton Ave.  
 Los Angeles, CA 90024  
-Phone: (310)208-6677
+Phone: (310)208-6677  
 Complimentary continental breakfast, parking & high speed internet.  
 
 - **Hilgard House Hotel**  
