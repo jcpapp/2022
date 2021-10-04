@@ -71,7 +71,7 @@ If you are staying overnight and have not yet booked your room, we suggest one o
 Los Angeles 90095  
     <https://luskinconferencecenter.ucla.edu>  
 
-- **Palihotel Westwood**
+- **Palihotel Westwood**  
 1044 Tiverton Avenue  
 Los Angeles, CA 90024  
 Phone: (310)340-1234  
