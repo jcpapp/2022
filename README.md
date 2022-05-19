@@ -1,14 +1,12 @@
 ## Lange Symposium
 
-The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the second Lange Symposium on January 28, 2022 in honor of UCLA Professor **Kenneth Lange**. Following the successful [inaugural Lange Symposium](https://langesymposium.github.io/2020/) in 2020, this event will celebrate the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades, and will feature scientific talks by some of Dr. Lange’s esteemed colleagues and former students. We hope you will join us for a day of stimulating science and time to catch up with friends and colleagues, and that you will also be interested in contributing to the plans to make this an annual event.
-
-Professor Lange is an internationally recognized mathematical biologist best known for his seminal contributions to human genetics, but also more generally for his development of computational algorithms applied to many disciplines—ranging from biomedical imaging to neuroscience. Professor Lange has been a devoted advisor to many PhD students in Biomathematics, Biostatistics, and Human Genetics and has taught scores of students aspiring to enter the field of computational biology, including many leaders in the field. To this day, he continues to mentor and inspire students who combine mathematical talent with biological curiosity. In 2021, Professor Lange was elected to the [National Academy of Sciences](https://newsroom.ucla.edu/releases/professor-in-the-medical-school-elected-to-the-national-academy-of-sciences?utm_source=Weekly+Highlights+-+IP+Warming+Email+8+-+COPY&utm_medium=email&utm_campaign=&utm_term=https%3a%2f%2fnewsroom.ucla.edu%2freleases%2fprofessor-in-the-medical-school-elected-to-the-national-academy-of-sciences), in recognition of his distinguished and continuing achievements in original research. 
+The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the second Lange Symposium on October 24, 2022 in honor of UCLA Professor **Kenneth Lange**. Following the successful [inaugural Lange Symposium](https://langesymposium.github.io/2020/) in 2020, there was a hiatus due to the COVI19 pandemic. With the help of funding from NIH, we plan to resume this yearly Symposium program of lectures, tutorials, and workshops. We hope you will join us for several days of stimulating science and time to catch up with friends and colleagues.
 
 ### Registration
 
-Register for the symposium on Jan 28, 2022 at [link](???). There will be a $20 registration fee. 
+Register for the symposium on October 24, 2022 at [link](???). There will be a $20 registration fee.
 
-The workshop on Jan 29, 2022 is free and does not require attendance at the symposium.
+The workshop on October, 2022 is free and does not require attendance at the symposium.
 
 ### Endowment
 
@@ -27,11 +25,7 @@ Please join Drs. Risch and Boehnke in making a [philanthropic gift](https://givi
 UCLA Luskin Conference Center, Jan 28, 2022.
 
 Confirmed speakers include:  
-- Genevera Allen, Rice University & Baylor College of Medicine  
-- Susan Holmes, Stanford University  
-- Kenneth Lange, UCLA  
-- Robert Tibshirani, Stanford University  
-- Jason Xu, Duke University  
+- 
 
 | Time | Title | Speaker |  
 |:-----------|:------------|:------------|  
@@ -46,7 +40,7 @@ Confirmed speakers include:
 | 4:00-4:50 | TBD | TBD |   
 | 4:50-5:00 | Conclusion | |  
 
-### Workshop-Jan 29, 2022
+### Workshop-October, 2022
 
 Cohen Room 134, Engineering VI Building, UCLA
 
@@ -113,4 +107,4 @@ Reservations: (888) 627-7135
 
 ### Contact
 
-Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu), [Janet Sinsheimer](mailto:jsinshei@ucla.edu), or [Hua Zhou](mailto:huazhou@ucla.edu).  
+Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu), [Hua Zhou](mailto:huazhou@ucla.edu).  
